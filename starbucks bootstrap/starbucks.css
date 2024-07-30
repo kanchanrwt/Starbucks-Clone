@@ -1,0 +1,69 @@
+
+/* .container{
+    width: 100vh;
+    
+} */
+
+#hcc{
+    margin-top: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+.row{
+    gap: 10px;
+    margin-left: 20px;
+}
+
+#Barista{
+    margin-top: 10px;
+    background-color: gold;
+    text-align: center;
+    
+}
+#coffee{
+    margin-left: 32%;
+
+}
+
+#holiday{
+    text-align:center;
+
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.latest{
+    text-align: center;
+    background-color: rgb(243, 233, 220);
+}
+#Jughead{
+    margin-left: 26%;
+}
+#learn{
+    text-align: center;
+    
+}
+#Special{
+    text-align: center;
+    margin-bottom: 10px;
+    
+   
+}
+
+.footerr{
+    background-color: #0e382c;
+
+}
+
+.footergift{
+    background-color: #0e382c;
+width: 100%;
+}
+/* 2nd page gift CSS */
+
+
+#cardss{
+    gap: 40px;
+    margin: 20px;
+}
